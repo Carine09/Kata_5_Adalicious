@@ -1,11 +1,11 @@
-### Kata 5
+# Kata 5
 
 ## Consignes
 4h de temps recommandé en restant minimaliste sur l’interface front-end
 Le kata peut être rendu jusqu’à 17h
 Stack libre
 
-# 🎯 Objectifs pédagogiques
+### 🎯 Objectifs pédagogiques
 Côté back-end
 Savoir créer un serveur web
 Savoir créer une API (CRUD)
@@ -13,10 +13,10 @@ Savoir connecter sa base de données avec son serveur
 Côté front-end
 Savoir utiliser un framework et exploiter ses mécaniques (composants, states, props, etc.)
 
-## 💎 Enoncé
+### 💎 Enoncé
 On te missionne pour créer une application qui va aider le restaurant d’Adalicious 🥦 à gérer les commandes en temps réel.
 
-# Front-end
+### Front-end
 Développe une interface avec deux vues.
 
 La première vue (utilisateur.trice) :
@@ -32,7 +32,7 @@ L’objectif est de rester au plus simple pour cet exercice, voici un schéma co
 Tu as le droit de personnaliser l’interface mais n’oublie pas de bien gérer ton temps.
 Nous faisons ici le choix simple de saisir uniquement un nom pour identifier la commande de l’utilisateur.trice. Il n’est pas demandé dans cet exercice de créer un système d’authentification.
 
-# Back-end
+### Back-end
 Développe un CRUD :
 -----------------------------------------------------------------------------------------------------
 Méthode
@@ -72,7 +72,7 @@ Ce CRUD permet:
 
 Les commandes ainsi que leur statut doivent être gérer avec une base de données. Tu es libre de choisir entre le NoSQL et le relationnel.
 
-# Annexe
+### Annexe
 Voici un exemple de menu simple :
 [
   {
